@@ -1,5 +1,7 @@
 # Pandas concat
-En este proyecto verán lo sencillo que puede ser automatizar la unión (concatenación) de archivos utilizando la librería pandas.
+[![edr-gh](https://img.shields.io/badge/edr%20gh-blue?&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-esteban_dr-white)](https://www.linkedin.com/in/esteban-dr/)
+
+En este repositorio verán lo sencillo que puede ser automatizar la unión (concatenación) de archivos utilizando la librería pandas.
 
 ## Objetivo
 Unir varios archivos csv en un solo dataframe de pandas y de forma opcional exportar el resultado a un archivo csv por si desean utilizar alguna herramienta adicional como Excel o Google Sheets.
